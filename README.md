@@ -1,4 +1,7 @@
 # Description
+[![build](https://github.com/subash-m/Spring-Boot-Olingo-OData-V4.01/actions/workflows/maven.yml/badge.svg)](https://github.com/subash-m/Spring-Boot-Olingo-OData-V4.01/actions/workflows/maven.yml)
+[![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE.txt)
+![GitHub last commit](https://img.shields.io/github/last-commit/subash-m/Spring-Boot-Olingo-OData-V4.01)
 
 Sample project to show integration of Spring Boot with Apache Olingo to create OData V4.01 API
 
